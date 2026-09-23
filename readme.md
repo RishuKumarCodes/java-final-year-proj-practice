@@ -1,1 +1,1 @@
-this is my first commit
+# This repo is for our pracice of Desktop apps using Java
